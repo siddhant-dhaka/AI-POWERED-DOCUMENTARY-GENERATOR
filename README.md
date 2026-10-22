@@ -1,10 +1,8 @@
-# ⚡ SCENECRAFT AI
+# ⚡ AI-POWERED-DOCUMENTARY-GENERATOR
 
 ### From one idea to a whole video. Automatically.
 
 **An AI-powered short-form video factory --- orchestrated with n8n.**
-
-`<br/>`{=html}
 
 ![Workflow](https://img.shields.io/badge/Workflow-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![LLM](https://img.shields.io/badge/Brains-Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
