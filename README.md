@@ -1,4 +1,3 @@
-::: {align="center"}
 # ⚡ SCENECRAFT AI
 
 ### From one idea to a whole video. Automatically.
